@@ -23,7 +23,6 @@ This project is a graphical Sudoku game implemented using Python's Tkinter libra
 
     ```bash
     git clone https://github.com/tahirch0udhary/Soduko-Puzzle-using-AC3-and-Backtracking-Agorithm
-    cd sudoku-solver
     ```
 
 2. **Install dependencies** (if not already available):
